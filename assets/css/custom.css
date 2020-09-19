@@ -1,0 +1,16 @@
+.wrapper {
+  height: 90vh;
+  background-color: darkblue;
+}
+.bg-color {
+  background-color: #fafafa;
+}
+.ig-footer {
+  font-size: 14px;
+}
+.footer-wm {
+  font-size: 13px;
+}
+.nav-link {
+  color: darkblue !important;
+}
